@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker-compose --file db/docker-compose.yml up --build --detach

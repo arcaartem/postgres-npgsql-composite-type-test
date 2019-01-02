@@ -1,0 +1,3 @@
+bin/
+obj/
+.idea/.idea.postgres-npgsql-composite-type-test/.idea/*

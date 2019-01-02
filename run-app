@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+dotnet run --project ./postgres-npgsql-composite-type-test/postgres-npgsql-composite-type-test.csproj
